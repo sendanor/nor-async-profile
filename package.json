@@ -1,6 +1,6 @@
 {
   "name": "nor-async-profile",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Q.fcall style interface for async-profile",
   "main": "src/index.js",
   "scripts": {
